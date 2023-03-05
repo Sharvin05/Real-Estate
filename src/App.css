@@ -1,38 +1,340 @@
-.App {
-  text-align: center;
-}
+@media only screen and (min-width: 1300px) {
+  .damaclogo {
+    width: 8rem;
+    margin-right: 60rem;
+    margin-left: 14rem;
+  }
+  .appBar {
+    background-color: white;
+  }
+  .demo {
+    border-radius: 2rem;
+    background-color: rgb(6, 218, 218);
+    color: black;
+  }
+  .h3.heading {
+    color: #4f4f4f;
+    box-sizing: border-box;
+    text-align: center;
+    line-height: 3.1875rem;
+    font-size: 1.9814rem;
+    font-family: Josefin Sans;
+  }
+  .h5.content {
+    font-family: Poppins;
+    text-align: center;
+    line-height: 1.6875rem;
+    font-size: 1.0526rem;
+    color: #000000;
+    font-weight: 200;
+  }
+  .villa {
+    width: 100%;
+  }
+  .Hero {
+    width: 100%;
+  }
+  .Par1 {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+  }
+  .par1Content {
+    width: 100%;
+    padding: auto;
+  }
+  .activity {
+    width: 100%;
+    text-align: center;
+  }
+  .activityHeading {
+    color: #6e9ddf;
+    text-align: center;
+    line-height: 2.875rem;
+    font-size: 2.3529rem;
+    font-family: "Playfair Display";
+    font-weight: 900;
+  }
+  .activityContent {
+    color: #343434;
+    text-align: center;
+    line-height: 2.25rem;
+    font-size: 1.1146rem;
+    font-family: Poppins;
+    font-weight: 100;
+  }
+  .ActivityDetails {
+    width: 45%;
+    margin: 1rem auto 1rem auto;
+  }
+  .ActivityList {
+    width: 100%;
+  }
+  .roundImages {
+    padding: 2rem 20rem 2rem 20rem;
+    /* text-align: center; */
+    /* width: 50%; */
+    /* margin: 1rem auto 1rem auto; */
+    /* width: 70%; */
+  }
+  .roundFrame {
+    /* margin-right: 3rem;
+    margin-left: 3rem;
+    margin-bottom: 3rem; */
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+  .payments {
+    width: 100%;
+  }
+  .paymentContent {
+    width: 70%;
+    text-align: center;
+    margin: 1rem auto 1rem auto;
+  }
+  .paymentHeading {
+    font-family: Vollkorn;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 400;
+    color: #37465a;
+  }
+  .crypto {
+    width: 10rem;
+  }
+  .smallHeading {
+    text-align: center;
+    line-height: 1.625rem;
+    font-size: 0.9907rem;
+    font-weight: 100;
+    font-family: Poppins;
+    color: #37465a;
+  }
+  .smallInfo {
+    text-align: center;
+    line-height: 2.6875rem;
+    font-size: 2.2291rem;
+    font-family: Vollkorn;
+    color: #37465a;
+  }
+  .getDemo {
+    width: 60%;
+    margin: 1rem auto 1rem auto;
+  }
+  .demoForm {
+    margin: 1rem auto 1rem auto;
+    width: 30%;
+    /* text-align: center; */
+  }
+  .demoInput {
+    width: 100%;
+  }
+  .fisrtName {
+    width: 53%;
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+    /* margin-left: 2rem;/ */
+  }
+  .titleInput {
+    width: 40%;
+    /* margin-right: 3rem; */
+  }
+  .footer {
+    background-color: #000000;
+    width: 100%;
+    height: 4rem;
+    text-align: center;
+    padding-top: 1rem;
+  }
+  .copyRights {
+    color: #d7d7d7;
+    text-align: center;
+    line-height: 0.875rem;
+    font-size: 0.6192rem;
+    font-family: Arial;
+  }
+  .message {
+    text-align: center;
+  }
+  .spinner {
+    width: 10rem;
+  }
+  .button.demo {
+    margin-left: 14rem;
   }
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+@media only screen and (min-width: 200px) and (max-width: 850px) {
+  .damaclogo {
+    width: 8rem;
+    margin-right: 20rem;
+    margin-left: 4rem;
   }
-  to {
-    transform: rotate(360deg);
+  .appBar {
+    background-color: white;
+  }
+  .demo {
+    border-radius: 2rem;
+    background-color: rgb(6, 218, 218);
+    color: black;
+  }
+  .h3.heading {
+    color: #4f4f4f;
+    box-sizing: border-box;
+    text-align: center;
+    line-height: 3.1875rem;
+    font-size: 1.9814rem;
+    font-family: Josefin Sans;
+  }
+  .h5.content {
+    font-family: Poppins;
+    text-align: center;
+    line-height: 1.6875rem;
+    font-size: 1.0526rem;
+    color: #000000;
+    font-weight: 200;
+  }
+  .villa {
+    width: 100%;
+  }
+  .Hero {
+    width: 100%;
+  }
+  .Par1 {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    padding-right: 4rem;
+    padding-left: 4rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+  }
+  .par1Content {
+    width: 100%;
+    padding: auto;
+  }
+  .activity {
+    width: 100%;
+    text-align: center;
+  }
+  .activityHeading {
+    color: #6e9ddf;
+    text-align: center;
+    line-height: 2.875rem;
+    font-size: 2.3529rem;
+    font-family: "Playfair Display";
+    font-weight: 900;
+  }
+  .activityContent {
+    color: #343434;
+    text-align: center;
+    line-height: 2.25rem;
+    font-size: 1.1146rem;
+    font-family: Poppins;
+    font-weight: 100;
+  }
+  .ActivityDetails {
+    width: 45%;
+    margin: 1rem auto 1rem auto;
+  }
+  .ActivityList {
+    width: 100%;
+    /* text-align: center; */
+    display: flex;
+    justify-content: center;
+  }
+  .roundImages {
+    padding: 2rem 0rem 2rem 0rem;
+    max-width: 600px;
+    /* min-width: 150px; */
+    /* text-align: center; */
+    /* width: 50%; */
+    /* margin: 1rem auto 1rem auto; */
+    /* width: 70%; */
+  }
+  .roundFrame {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+  .payments {
+    width: 100%;
+  }
+  .paymentContent {
+    width: 70%;
+    text-align: center;
+    margin: 1rem auto 1rem auto;
+  }
+  .paymentHeading {
+    font-family: Vollkorn;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 400;
+    color: #37465a;
+  }
+  .crypto {
+    width: 10rem;
+  }
+  .smallHeading {
+    text-align: center;
+    line-height: 1.625rem;
+    font-size: 0.9907rem;
+    font-weight: 100;
+    font-family: Poppins;
+    color: #37465a;
+  }
+  .smallInfo {
+    text-align: center;
+    line-height: 2.6875rem;
+    font-size: 2.2291rem;
+    font-family: Vollkorn;
+    color: #37465a;
+  }
+  .getDemo {
+    width: 80%;
+    margin: 1rem auto 1rem auto;
+  }
+  .demoForm {
+    margin: 1rem auto 1rem auto;
+    width: 60%;
+    /* text-align: center; */
+  }
+  .demoInput {
+    width: 100%;
+  }
+  .fisrtName {
+    width: 54%;
+
+    /* margin-left: 2rem;/ */
+  }
+  .titleInput {
+    width: 40%;
+    /* margin-right: 3rem; */
+  }
+  .footer {
+    background-color: #000000;
+    width: 100%;
+    height: 4rem;
+    text-align: center;
+    padding-top: 1rem;
+  }
+  .copyRights {
+    color: #d7d7d7;
+    text-align: center;
+    line-height: 0.875rem;
+    font-size: 0.6192rem;
+    font-family: Arial;
+  }
+  .message {
+    text-align: center;
+  }
+  .spinner {
+    width: 10rem;
+  }
+  .button.demo {
+    margin-left: 10rem;
   }
 }
